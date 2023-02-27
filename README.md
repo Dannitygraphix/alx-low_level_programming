@@ -1,1 +1,1 @@
-secong low level
+C pointer
