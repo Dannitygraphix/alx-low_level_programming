@@ -10,6 +10,6 @@ void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 void errors(void);
 int _strlen(char *s);
 int is_digit(char *s);
-char *create_array(unsigned int size, char c)
+char *create_array(unsigned int size, char c);
 
 #endif
