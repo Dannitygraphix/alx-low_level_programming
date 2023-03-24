@@ -2,9 +2,9 @@
 
 /**
  * sum_them_all - sums variable arguments
- *  @n: the number of arguments
- *  @...: the integers to sum
- *  Return: the integer sum
+ * @n: the number of arguments
+ * @...: the integers to sum
+ * Return: the integer sum
 */
 int sum_them_all(const unsigned int n, ...)
 {
